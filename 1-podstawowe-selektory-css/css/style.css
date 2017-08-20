@@ -35,6 +35,6 @@ ul > li.list-item:not(.wykluczone) {
     color: aqua;
 }   
 /*Selektor kolejnego elementu potomnego*/
-ol > li:nth-child(3 4) {
+ol > li:nth-child(3) {
     background-color: lightgreen;
 }
